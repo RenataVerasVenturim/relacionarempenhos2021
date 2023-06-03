@@ -5,3 +5,12 @@
 *.xml linguist-detectable=true
 *.bas linguist-detectable=true
 *.py linguist-detectable=true
+
+*.java linguist-language=JAVA
+*.js linguist-language=JavaScript
+*.css linguist-language=CSS
+*.html linguist-language=HTML
+*.xml linguist-language=Excel
+*.bas linguist-language=VBA
+*.py linguist-language=Python
+
