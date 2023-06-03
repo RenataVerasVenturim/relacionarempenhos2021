@@ -2,9 +2,9 @@
 *.java linguist-detectable=false  
 *.js linguist-detectable=false  
 *.html linguist-detectable=false  
-*.xml linguist-detectable=true
+*.xml linguist-detectable=false
 *.bas linguist-detectable=true
 *.py linguist-detectable=true
 
 *.py linguist-language=Python
-*.bas linguist-language=Basic
+*.bas linguist-language=VBA
